@@ -9,7 +9,8 @@
   <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-20" />
 
   <!-- KERNEL -->
-  <project name="eduyl/android_kernel_samsung_universal5433" path="kernel/samsung/universal5433" remote="github" revision="lineage-20" />
+  <!--project name="eduyl/android_kernel_samsung_universal5433" path="kernel/samsung/universal5433" remote="github" revision="lineage-20" /-->
+  <project name="MrBrause/android_kernel_samsung_universal5433" path="kernel/samsung/universal5433" remote="github" revision="lineage-20" />
 
   <!-- VENDOR -->
   <project name="eduyl/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-18.1" />
